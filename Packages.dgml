@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="Gecko.Framework.Mvc" Label="Gecko.Framework.Mvc" Category="Project" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="EntityDemoSite.MVC" Label="EntityDemoSite.MVC" Category="Project" />
+    <Node Id="CommonServiceLocator 1.0" Label="CommonServiceLocator 1.0" Category="Package" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="jQuery 1.5.1" Label="jQuery 1.5.1" Category="Package" />
+    <Node Id="jQuery.UI.Combined 1.8.11" Label="jQuery.UI.Combined 1.8.11" Category="Package" />
+    <Node Id="jQuery.Validation 1.8.0" Label="jQuery.Validation 1.8.0" Category="Package" />
+    <Node Id="jQuery.vsdoc 1.5.1" Label="jQuery.vsdoc 1.5.1" Category="Package" />
+    <Node Id="MiniProfiler 2.0.1" Label="MiniProfiler 2.0.1" Category="Package" />
+    <Node Id="MiniProfiler.EF 2.0.2" Label="MiniProfiler.EF 2.0.2" Category="Package" />
+    <Node Id="Modernizr 1.7" Label="Modernizr 1.7" Category="Package" />
+    <Node Id="Unity 2.1.505.0" Label="Unity 2.1.505.0" Category="Package" />
+    <Node Id="Unity.Mvc3 1.1" Label="Unity.Mvc3 1.1" Category="Package" />
+    <Node Id="EntityDemoSite.StubTests" Label="EntityDemoSite.StubTests" Category="Project" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="EntityDemoSite.Domain" Label="EntityDemoSite.Domain" Category="Project" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="EntityDemoSite.DataAccess" Label="EntityDemoSite.DataAccess" Category="Project" />
+    <Node Id="CommonServiceLocator 1.0" Label="CommonServiceLocator 1.0" Category="Package" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="Unity 2.1.505.0" Label="Unity 2.1.505.0" Category="Package" />
+    <Node Id="EntityDemoSite.WebForms" Label="EntityDemoSite.WebForms" Category="Project" />
+    <Node Id="EntityFramework 5.0.0-rc" Label="EntityFramework 5.0.0-rc" Category="Package" />
+    <Node Id="MiniProfiler 2.0.1" Label="MiniProfiler 2.0.1" Category="Package" />
+    <Node Id="MiniProfiler.EF 2.0.2" Label="MiniProfiler.EF 2.0.2" Category="Package" />
+  </Nodes>
+  <Links>
+    <Link Source="Gecko.Framework.Mvc" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="jQuery.UI.Combined 1.8.11" Target="jQuery 1.5.1" Category="Package Dependency" />
+    <Link Source="jQuery.Validation 1.8.0" Target="jQuery 1.5.1" Category="Package Dependency" />
+    <Link Source="jQuery.vsdoc 1.5.1" Target="jQuery 1.5.1" Category="Package Dependency" />
+    <Link Source="MiniProfiler.EF 2.0.2" Target="MiniProfiler 2.0.1" Category="Package Dependency" />
+    <Link Source="Unity 2.1.505.0" Target="CommonServiceLocator 1.0" Category="Package Dependency" />
+    <Link Source="Unity.Mvc3 1.1" Target="Unity 2.1.505.0" Category="Package Dependency" />
+    <Link Source="EntityDemoSite.MVC" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="jQuery.UI.Combined 1.8.11" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="jQuery.Validation 1.8.0" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="jQuery.vsdoc 1.5.1" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="MiniProfiler.EF 2.0.2" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="Modernizr 1.7" Category="Installed Package" />
+    <Link Source="EntityDemoSite.MVC" Target="Unity.Mvc3 1.1" Category="Installed Package" />
+    <Link Source="EntityDemoSite.StubTests" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="EntityDemoSite.Domain" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="Unity 2.1.505.0" Target="CommonServiceLocator 1.0" Category="Package Dependency" />
+    <Link Source="EntityDemoSite.DataAccess" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="EntityDemoSite.DataAccess" Target="Unity 2.1.505.0" Category="Installed Package" />
+    <Link Source="MiniProfiler.EF 2.0.2" Target="MiniProfiler 2.0.1" Category="Package Dependency" />
+    <Link Source="EntityDemoSite.WebForms" Target="EntityFramework 5.0.0-rc" Category="Installed Package" />
+    <Link Source="EntityDemoSite.WebForms" Target="MiniProfiler.EF 2.0.2" Category="Installed Package" />
+  </Links>
+  <Categories>
+    <Category Id="Project" />
+    <Category Id="Package" />
+  </Categories>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Project" ValueLabel="True">
+      <Condition Expression="HasCategory('Project')" />
+      <Setter Property="Background" Value="Blue" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Package Dependency" ValueLabel="True">
+      <Condition Expression="HasCategory('Package Dependency')" />
+      <Setter Property="Background" Value="Yellow" />
+    </Style>
+  </Styles>
+</DirectedGraph>

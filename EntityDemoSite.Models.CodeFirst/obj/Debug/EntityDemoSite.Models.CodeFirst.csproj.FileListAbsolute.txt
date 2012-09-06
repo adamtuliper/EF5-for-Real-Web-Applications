@@ -1,0 +1,8 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Models.CodeFirst.dll.config
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Models.CodeFirst.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Models.CodeFirst.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Models.CodeFirst.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Models.CodeFirst.pdb

@@ -1,0 +1,5 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.BL\bin\Debug\EntityDemoSite.BL.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.BL\bin\Debug\EntityDemoSite.BL.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.BL\obj\Debug\EntityDemoSite.BL.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.BL\obj\Debug\EntityDemoSite.BL.pdb

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<EntityDemoSiteMVC.ViewModels.Order.OrderIndexViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Customer
+        </th>
+        <th>
+            OrderTotal
+        </th>
+        <th>
+            EstimatedShipDate
+        </th>
+        <th>
+            ActualShipDate
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderTotal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EstimatedShipDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ActualShipDate)
+        </td>
+          <td>
+            @Html.DisplayFor(modelItem => item.ShipName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OrderId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OrderId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OrderId })
+        </td>
+    </tr>
+}
+
+</table>

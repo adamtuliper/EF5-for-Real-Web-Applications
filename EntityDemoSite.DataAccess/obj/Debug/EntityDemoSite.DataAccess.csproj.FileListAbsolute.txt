@@ -1,0 +1,49 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll.config
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EFProviderWrapperToolkit.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EFTracingProvider.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EFProviderWrapperToolkit.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EFTracingProvider.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll.config
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll.config
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.pdb

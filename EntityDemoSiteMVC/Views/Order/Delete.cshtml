@@ -1,0 +1,38 @@
+﻿@model EntityDemoSite.Domain.Entities.Order
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">Customer</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Customer.FirstName)
+    </div>
+
+    <div class="display-label">OrderTotal</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.OrderTotal)
+    </div>
+
+    <div class="display-label">EstimatedShipDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EstimatedShipDate)
+    </div>
+
+    <div class="display-label">ActualShipDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ActualShipDate)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

@@ -1,0 +1,24 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll.config
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll.config
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll.config
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.pdb

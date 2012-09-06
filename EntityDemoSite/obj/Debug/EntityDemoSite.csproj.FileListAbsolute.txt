@@ -1,0 +1,11 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.pdb

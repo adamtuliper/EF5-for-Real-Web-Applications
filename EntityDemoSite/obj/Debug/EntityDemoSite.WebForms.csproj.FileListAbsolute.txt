@@ -1,0 +1,47 @@
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.pdb
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EFProviderWrapperToolkit.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EFTracingProvider.dll
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EFProviderWrapperToolkit.xml
+C:\source\Demos\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EFTracingProvider.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\EntityFramework.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.WebForms.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.EntityFramework.dll
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.pdb
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.xml
+C:\source\Entity Framework 4.1\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.EntityFramework.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityFramework.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.EntityFramework.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.DataAccess.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityDemoSite.Domain.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\EntityFramework.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.xml
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin\MiniProfiler.EntityFramework.pdb
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.WebForms.csprojResolveAssemblyReference.cache
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.dll
+C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.pdb
