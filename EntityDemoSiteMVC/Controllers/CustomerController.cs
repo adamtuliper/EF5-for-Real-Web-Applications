@@ -69,7 +69,7 @@ namespace EntityDemoSiteMVC.Controllers
                 customer.LastName = customerViewModel.LastName;
                 customer.State = customerViewModel.State;
                 customer.Zip = customerViewModel.Zip;
-
+                customer.EmailAddress = customerViewModel.EmailAddress;
                 _repository.Create(customer);
                 _repository.Save();
                 return RedirectToAction("Edit", new { id = customer.CustomerId });
