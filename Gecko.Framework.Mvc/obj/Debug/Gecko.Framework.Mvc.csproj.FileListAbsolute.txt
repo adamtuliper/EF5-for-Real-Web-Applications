@@ -1,0 +1,8 @@
+C:\source\Gecko.Framework.Mvc\bin\Debug\Gecko.Framework.Mvc.dll.config
+C:\source\Gecko.Framework.Mvc\bin\Debug\Gecko.Framework.Mvc.dll
+C:\source\Gecko.Framework.Mvc\bin\Debug\Gecko.Framework.Mvc.pdb
+C:\source\Gecko.Framework.Mvc\bin\Debug\EntityFramework.xml
+C:\source\Gecko.Framework.Mvc\obj\Debug\Gecko.Framework.Mvc.dll
+C:\source\Gecko.Framework.Mvc\obj\Debug\Gecko.Framework.Mvc.pdb
+C:\source\Gecko.Framework.Mvc\obj\Debug\Gecko.Framework.Mvc.csprojResolveAssemblyReference.cache
+C:\source\Gecko.Framework.Mvc\bin\Debug\EntityFramework.dll

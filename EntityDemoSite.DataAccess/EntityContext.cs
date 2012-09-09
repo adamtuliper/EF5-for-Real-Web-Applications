@@ -16,8 +16,6 @@ namespace EntityDemoSite.DataAccess
 {
     public class EntityContext : DbContext
     {
-      
-
         public EntityContext()
         {
             this.Configuration.ValidateOnSaveEnabled = true;
@@ -27,7 +25,9 @@ namespace EntityDemoSite.DataAccess
         {
             //for example to create a db- this is in the static initializer so 
             //only runs when the app domain loads.
-            Database.SetInitializer(new CreateDatabaseIfNotExists<EntityContext>());
+            //Database.SetInitializer(new CreateDatabaseIfNotExists<EntityContext>());
+
+            Database.SetInitializer<EntityContext>(null);
         }
 
         public DbSet<Customer> Customers { get; set; }

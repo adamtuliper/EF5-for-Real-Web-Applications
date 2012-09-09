@@ -1,11 +1,8 @@
 ﻿using System.Web.Mvc;
-using EntityDemoSite.Domain;
 using EntityDemoSite.Domain.Entities;
 using EntityDemoSiteMVC.ViewModels.Customer;
-using AutoMapper;
 using Gecko.Framework.Mvc.ActionFilters;
 using EntityDemoSite.DataAccess.Interfaces;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace EntityDemoSiteMVC.Controllers

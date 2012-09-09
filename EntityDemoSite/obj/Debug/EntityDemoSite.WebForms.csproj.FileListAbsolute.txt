@@ -45,3 +45,19 @@ C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\bin
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.WebForms.csprojResolveAssemblyReference.cache
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.dll
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite\obj\Debug\EntityDemoSite.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.DataAccess.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\MiniProfiler.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\MiniProfiler.EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.DataAccess.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\EntityFramework.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\MiniProfiler.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\MiniProfiler.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite\bin\MiniProfiler.EntityFramework.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite\obj\Debug\EntityDemoSite.WebForms.csprojResolveAssemblyReference.cache
+C:\source\EF5 for Real Web Applications\EntityDemoSite\obj\Debug\EntityDemoSite.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite\obj\Debug\EntityDemoSite.pdb

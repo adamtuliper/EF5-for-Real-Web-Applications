@@ -83,3 +83,28 @@ C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSiteMVC\
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSiteMVC\obj\Debug\EntityDemoSite.MVC.csprojResolveAssemblyReference.cache
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSiteMVC\obj\Debug\EntityDemoSiteMVC.dll
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSiteMVC\obj\Debug\EntityDemoSiteMVC.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\obj\Debug\EntityDemoSite.MVC.csprojResolveAssemblyReference.cache
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\obj\Debug\EntityDemoSiteMVC.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\obj\Debug\EntityDemoSiteMVC.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\App_Data\OldEntityDemoSite.sdf
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSiteMVC.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSiteMVC.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSite.DataAccess.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Gecko.Framework.Mvc.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Microsoft.Practices.Unity.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\MiniProfiler.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\MiniProfiler.EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Unity.Mvc3.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Microsoft.Practices.ServiceLocation.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Gecko.Framework.Mvc.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSite.DataAccess.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\EntityFramework.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Microsoft.Practices.Unity.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\MiniProfiler.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\MiniProfiler.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSiteMVC\bin\MiniProfiler.EntityFramework.pdb

@@ -47,3 +47,18 @@ C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Dat
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.csprojResolveAssemblyReference.cache
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.dll
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll.config
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.DataAccess.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\EntityFramework.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.csprojResolveAssemblyReference.cache
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.DataAccess\obj\Debug\EntityDemoSite.DataAccess.pdb

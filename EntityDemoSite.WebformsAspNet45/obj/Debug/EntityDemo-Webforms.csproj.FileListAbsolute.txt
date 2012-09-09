@@ -1,0 +1,38 @@
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.jQuery.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemo.DataAccess5.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemo.DataAccess5.pdb
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\source\Entity Framework 4.1\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\EntityDemo-Webforms.csprojResolveAssemblyReference.cache
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\EntityDemo-Webforms.csprojResolveAssemblyReference.cache
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.jQuery.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemoSite.DataAccess.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemoSite.Domain.dll
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemoSite.DataAccess.pdb
+C:\source\EF5\EntityDemo-Webforms\WebApplication1\WebApplication1\bin\EntityDemoSite.Domain.pdb

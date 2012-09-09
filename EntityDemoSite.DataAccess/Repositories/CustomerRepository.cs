@@ -48,8 +48,8 @@ namespace EntityDemoSite.DataAccess.Repositories
         /// <returns></returns>
         public Customer GetById(int id)
         {
-            return this.Context.Database.SqlQuery<Customer>("Proc_GetCustomer @customerID", new SqlParameter("@customerID", id)).Single();
-            //return this.Context.Customers.Include("Orders").Single(o => o.CustomerId == id);
+            //return this.Context.Database.SqlQuery<Customer>("Proc_GetCustomer @customerID", new SqlParameter("@customerID", id)).Single();
+            return this.Context.Customers.Include(o => o.Orders).Single(o => o.CustomerId == id);
         }
 
         public void Delete(Customer entity)

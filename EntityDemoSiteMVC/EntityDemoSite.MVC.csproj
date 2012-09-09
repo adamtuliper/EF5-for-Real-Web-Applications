@@ -21,6 +21,10 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -110,7 +114,11 @@
     <Compile Include="ViewModels\Order\OrderIndexViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\EntityDemoSite.mdf" />
     <Content Include="App_Data\EntityDemoSite.sdf" />
+    <Content Include="App_Data\EntityDemoSite_log.LDF">
+      <DependentUpon>EntityDemoSite.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\OldEntityDemoSite.sdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -191,10 +199,6 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Gecko.Framework.Mvc\Gecko.Framework.Mvc.csproj">
-      <Project>{5E139B24-623F-40F7-8BBF-A5C778752B28}</Project>
-      <Name>Gecko.Framework.Mvc</Name>
-    </ProjectReference>
     <ProjectReference Include="..\EntityDemoSite.DataAccess\EntityDemoSite.DataAccess.csproj">
       <Project>{05489D62-BDA7-470B-993D-4E70BF3D4FD4}</Project>
       <Name>EntityDemoSite.DataAccess</Name>
@@ -202,6 +206,10 @@
     <ProjectReference Include="..\EntityDemoSite.Models.CodeFirst\EntityDemoSite.Domain.csproj">
       <Project>{1483ED1F-52BD-43CD-8B52-9BC6D9648D0F}</Project>
       <Name>EntityDemoSite.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gecko.Framework.Mvc\Gecko.Framework.Mvc.csproj">
+      <Project>{5E139B24-623F-40F7-8BBF-A5C778752B28}</Project>
+      <Name>Gecko.Framework.Mvc</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

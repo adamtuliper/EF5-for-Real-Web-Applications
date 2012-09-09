@@ -22,3 +22,11 @@ C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Mod
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.csprojResolveAssemblyReference.cache
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.dll
 C:\source\Entity Framework 5 For Real Web Apps\EntityDemoSite\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll.config
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\bin\Debug\EntityFramework.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.csprojResolveAssemblyReference.cache
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.Models.CodeFirst\obj\Debug\EntityDemoSite.Domain.pdb

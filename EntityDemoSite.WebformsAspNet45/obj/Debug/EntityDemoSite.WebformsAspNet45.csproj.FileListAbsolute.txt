@@ -1,0 +1,13 @@
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\WebApplication1.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\WebApplication1.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityDemoSite.DataAccess.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityDemoSite.Domain.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\Microsoft.Web.Infrastructure.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityFramework.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityDemoSite.DataAccess.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityDemoSite.Domain.pdb
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\Microsoft.Web.Infrastructure.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\bin\EntityFramework.xml
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\obj\Debug\EntityDemoSite.WebformsAspNet45.csprojResolveAssemblyReference.cache
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\obj\Debug\WebApplication1.dll
+C:\source\EF5 for Real Web Applications\EntityDemoSite.WebformsAspNet45\obj\Debug\WebApplication1.pdb

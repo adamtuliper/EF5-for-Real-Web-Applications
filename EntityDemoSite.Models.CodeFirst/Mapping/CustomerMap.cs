@@ -21,13 +21,13 @@ namespace EntityDemoSite.Domain.Mapping
 				.HasMaxLength(50);
 
             // Properties
-            //this.Property(t => t.EmailAddress)
-            //    .IsRequired()
-            //    .HasMaxLength(50);
+            this.Property(t => t.EmailAddress)
+                .IsRequired()
+                .HasMaxLength(50);
 				
 			this.Property(t => t.LastName)
 				.IsRequired()
-				.HasMaxLength(50);
+				.HasMaxLength(500);
 				
 			this.Property(t => t.Address)
 				.IsRequired()
