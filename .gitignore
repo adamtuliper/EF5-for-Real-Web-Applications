@@ -1,2 +1,9 @@
-_ReSharper.EntityDemoSite/
 TestResults/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+EntityDemoSiteMVC/obj
+EntityDemoSite.WebformsAspNet45/obj
+
