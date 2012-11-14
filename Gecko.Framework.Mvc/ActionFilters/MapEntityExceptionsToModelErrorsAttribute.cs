@@ -40,7 +40,7 @@ namespace Gecko.Framework.Mvc.ActionFilters
                     {
                         filterContext.Controller.ViewData.ModelState.AddModelError("", error.ErrorMessage);
                     }
-                    else if (filterContext.Controller.ViewData.ModelState[error.PropertyName].Errors.Count == 0)
+                    else if (filterContext.Controller.ViewData.ModelState.ContainsKey(error.PropertyName) && filterContext.Controller.ViewData.ModelState[error.PropertyName].Errors.Count == 0)
                     {
                         filterContext.Controller.ViewData.ModelState.AddModelError(error.PropertyName, error.ErrorMessage);
                     }
@@ -52,15 +52,17 @@ namespace Gecko.Framework.Mvc.ActionFilters
                         //our viewmodel (invalid dat in db, or some other code error bypassing validations)
                         //then we want to add the error. This can happen on Save() and not caught in modelstate.
                         bool found = false;
-                        foreach (var errorItem in filterContext.Controller.ViewData.ModelState[error.PropertyName].Errors)
+                        if (filterContext.Controller.ViewData.ModelState.ContainsKey(error.PropertyName))
                         {
-                            if (errorItem.ErrorMessage == error.ErrorMessage)
+                            foreach (var errorItem in filterContext.Controller.ViewData.ModelState[error.PropertyName].Errors)
                             {
-                                found = true;
-                                break;
+                                if (errorItem.ErrorMessage == error.ErrorMessage)
+                                {
+                                    found = true;
+                                    break;
+                                }
                             }
                         }
-
                         if (!found)
                         {
                             filterContext.Controller.ViewData.ModelState.AddModelError("", error.ErrorMessage);
